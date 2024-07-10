@@ -4,7 +4,7 @@
 
 Simple use of google recaptcha service in laravel project.
 
-![preview](screenshots\recaptcha.png)
+<img src="./screenshots/recaptcha.png" alt="Recaptcha image">
 
 ### Installation
 1. unzip the project 
